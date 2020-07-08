@@ -1,14 +1,16 @@
 import * as React from "react";
 
+import MobxTodoList from "../MobxTodoList";
+
 import "./index.scss";
 
-interface IApp {
-}
-
+interface IApp {}
 
 const App: React.FunctionComponent<IApp> = (props) => {
   return (
-    <div></div>
+    <div>
+      <MobxTodoList />
+    </div>
   );
 };
 

@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/0B1N/React-State-Management-Compare#readme",
   "dependencies": {
+    "@types/antd": "^1.0.0",
     "@types/react": "^16.9.41",
     "@types/react-dom": "^16.9.8",
+    "antd": "^4.4.1",
     "css-loader": "^3.6.0",
     "mobx": "^5.15.4",
     "mobx-react": "^6.2.2",
